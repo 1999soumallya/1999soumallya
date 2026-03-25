@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Full Stack Developer | Node.js | React.js<br><br>Passionate web developer with 2.8+ years of experience building scalable and user-friendly applications. Skilled in both frontend and backend development using modern technologies like Node.js, React, Express, MongoDB, and MySQL.<br><br>🚀 Currently exploring advanced system design & real-time applications  <br>📦 Experienced in REST APIs, authentication systems, and database design  <br>⚡ Love solving real-world problems with clean and efficient code  <br><br>📫 Let's connect and build something amazing!
+💻 Full Stack Developer | Node.js | React.js<br><br>Passionate web developer with 4+ years of experience building scalable and user-friendly applications. Skilled in both frontend and backend development using modern technologies like Node.js, React, Express, MongoDB, and MySQL.<br><br>🚀 Currently exploring advanced system design & real-time applications  <br>📦 Experienced in REST APIs, authentication systems, and database design  <br>⚡ Love solving real-world problems with clean and efficient code  <br><br>📫 Let's connect and build something amazing!
 
 
 ## 🌐 Socials:
